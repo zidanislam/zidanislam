@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **various practice projects.**
 
-- 🔥 I’m currently learning **Redux**
+- 🔥 I’m currently learning **Authentication**
 
 - 🤝 I’m looking for help with **deep knowledge about web development.**
 
