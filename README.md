@@ -1,10 +1,10 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Zidan</h1>
-<h3>A passionate frontend developer from Bangladesh</h3>
-<br><br>-🔭 I’m currently working on various practice projects.<be>
--🌱 I’m currently learning NextJS & Authentication.<be>
-  -💬 Ask me about JavaScript.<be>
-  -⚡ Fun fact  I'm also a WordPress Designer & Developer.
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<br><br>-🔭 I’m currently working on various practice projects.<br>
+-🌱 I’m currently learning NextJS & Authentication.<br>
+-💬 Ask me about JavaScript.<be>
+-⚡ Fun fact  I'm also a WordPress Designer & Developer.
 
 
 # 💻 Tech Stack:
